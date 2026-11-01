@@ -1,6 +1,6 @@
 <h1 align="center">Mase</h1>
 
-<p align="center">A macOS-style dock for Windows that replaces the taskbar. Native, no webview.</p>
+<p align="center">A Web3 deck for Windows that replaces the taskbar. Native, no webview.</p>
 
 Mase hides the Windows taskbar and puts one black shape at the bottom of the screen. It tucks away into a thin strip, opens when you touch the edge, and morphs between states on a single spring. When nothing is going on, Mase the flame peeks out from behind it.
 
